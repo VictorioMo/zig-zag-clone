@@ -1,4 +1,4 @@
-# 🏓 Zig Zag Game (Unity)
+# 〰️ Zig Zag Game (Unity)
 
 **Zig Zag** game remake built in **Unity** as part of my C# Masterclass learning journey.  
 This small project focuses on procedural generation, particle physics, and storing data in PlayerPreferences in Unity.
