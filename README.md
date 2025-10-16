@@ -35,8 +35,9 @@ This small project focuses on procedural generation, particle physics, and stori
 
 ## 📸 Screenshots
 
-![Game](game_play.png)
-![Playing](game_preview.gif)
+![Menu](menu_image.png)
+![Game](game_image.png)
+![Playing](game_video.gif)
 
 ---
 
